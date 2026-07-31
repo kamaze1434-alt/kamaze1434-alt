@@ -27,11 +27,19 @@ Here are some of the projects I did participate as undergrad and Skill that I po
    # Quantum computing 
    # PC 
 
-# 4,Skills
+# 4,Skills and knowledge
   # Python
   # MATLAB
   # CAD/CATIA/SOLID WORK
   # MPLAB
   # PROTEUS
+  # mathematics
+  # pysics
+  # power and control
+  # Design and mechanism
+  # Technical drawing 
+  # ML and computer vision 
+
+  
 
 
