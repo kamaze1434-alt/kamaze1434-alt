@@ -5,6 +5,7 @@ Here are some of the projects I did participate as undergrad and Skill that I po
 
 
 #1  Hydrogen production CAD model and its Electrical circuitry
+
   ##tools used 
         #solid work
         #proteus
@@ -17,6 +18,7 @@ Here are some of the projects I did participate as undergrad and Skill that I po
         #ANSYS
         
 #3,AI projects as intern in iCog-labs
+
    # NNet using OOP
    # Autoencoders
    # N-grams
