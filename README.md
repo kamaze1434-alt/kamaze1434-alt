@@ -32,7 +32,7 @@ Passionate about integrating mechanical design , electrical circuitry, and artif
 ## Technical Skills & knowledge
 | Category | Tools & competencies |
 | :--- | :--- |
-| **CAD / CAE / Modeling** | SolidWorks , CATIA, CAD , ANSYS( Finite element Analysis) |
+| **CAD / CAE / Modeling;** | SolidWorks , CATIA, CAD , ANSYS( Finite element Analysis) |
 | **Embedded & Circuit Design:** | Proteus , MPLAB |
 | **Programming & Analysis:** | Python , MATLAB |
 | **Core Engineering Fields:** | Physics, Mathematics Power & control systems , Technical Drawing , Design & Mechanism |
