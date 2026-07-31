@@ -33,7 +33,7 @@ Passionate about integrating mechanical design , electrical circuitry, and artif
 | Category | Tools & competencies |
 | :--- | :--- |
 | **CAD / CAE / Modeling** | SolidWorks , CATIA, CAD , ANSYS( Finite element Analysis) |
-| **Embedded & Circuit Design ** | Proteus , MPLAB |
+| **Embedded & Circuit Design:** | Proteus , MPLAB |
 | **Programming & Analysis** | Python , MATLAB |
 | **Core Engineering Fields ** | Physics, Mathematics Power & control systems , Technical Drawing , Design & Mechanism |
 | ** Advanced Computing:** | Machine Learning , Computer Vision , Quantum Computing |
