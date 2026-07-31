@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi I am Kibrom
+### Electromechanical Engineering graduate
+###
+Here are some of the projects I did participate as undergrad and Skill that I posses :
 
-<!--
-**kamaze1434-alt/kamaze1434-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#1  Hydrogen production CAD model and its Electrical circuitry
+  ##tools used 
+        #solid work
+        #proteus
+#2, Simulating and prototyping Automatic incubator --thesis 
+   # Contribute in mathematical modeling
+   ##tools used
+        #Solid work
+        #Matlab
+        #ANSYS
+#3,AI projects as intern in iCog-labs
+   # NNet using OOP
+   # Autoencoders
+   # N-grams
+   # PLN 
+   # Quantum computing 
+   # PC 
 
-Here are some ideas to get you started:
+# 4,Skills
+  # Python
+  # MATLAB
+  # CAD/CATIA/SOLID WORK
+  # MPLAB
+  # PROTEUS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
