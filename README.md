@@ -1,44 +1,43 @@
-### Hi I am Kibrom
+# Hi I am Kibrom
 
-# Electromechanical Engineering graduate
+### Electromechanical Engineering graduate
 
-Here are some of the projects I did participate as undergrad and Skill that I posses :
+Passionate about integrating mechanical design , electrical circuitry, and artificial intelligence to build next-generation automated system.
 
+---
 
-# 1,  Hydrogen production CAD model and its Electrical circuitry
+## Engineering projects
 
-  #tools used 
-        #solid work
-        #proteus
+### 1,  Hydrogen production Component design 
+* **overview:** Developed a comprehensive CAD and the support electrical circuitry for a hydrogen production system. 
+* **key Tasks:** Modelled mechanical assemblies and engineered safe , functional power routing.
+* **Tools used:** SolidWorks, Proteus 
 
-# 2, Simulating and prototyping Automatic incubator --thesis 
-   # Contribute in mathematical modeling
-   #tools used
-        #Solid work
-        #Matlab
-        #ANSYS
-        
-# 3,AI projects as intern in iCog-labs
+### 2, Automatic Incubator Simulation & Prototyping(Thesis)
+* **Overview:** Design, Simulated ,and prototyped an automated incubator system featuring mathematical modeling and control loops
+* **Key Tasks:** programmed core system automation, modeled power/ thermal control dynamics , and handled physical prototyping
+* **Tools Used:** SolidWorks , MATLAB , ANSYS
+* 
+### 3,AI projects as intern in iCog-labs
+* **Overview:** Completed a 6- month in technical internship focused on Machine learning and Computer vision
+* **Key contribution:**
+  * **Neural Networks (NNet):** Built Customized model using object oriented programming (OOP)
+  * **Autoencoders & Computer Vision :** Structured deep learning frameworks for pattern recognition
+  * **Natural language processing(NLP):** Designed N-grams and Processing layers.
+  * **Probabilistic Logic Unit(PLN):** Model used to correct NNet weakness using MeTTa programming.
+  * **Quantum Computing:** Explored Quantum algorithms and predictive simulation modeling
 
-   # NNet using OOP
-   # Autoencoders
-   # N-grams
-   # PLN 
-   # Quantum computing 
-   # PC 
+---
 
-# 4,Skills and knowledge
-  # Python
-  # MATLAB
-  # CAD/CATIA/SOLID WORK
-  # MPLAB
-  # PROTEUS
-  # mathematics
-  # pysics
-  # power and control
-  # Design and mechanism
-  # Technical drawing 
-  # ML and computer vision 
+## Technical Skills & knowledge
+| Category | Tools & competencies |
+| :--- | :--- |
+| **CAD / CAE / Modeling** | SolidWorks , CATIA, CAD , ANSYS( Finite element Analysis) |
+| **Embedded & Circuit Design ** | Proteus , MPLAB |
+| **Programming & Analysis** | Python , MATLAB |
+| **Core Engineering Fields ** | Physics, Mathematics Power & control systems , Technical Drawing , Design & Mechanism |
+| ** Advanced Computing:** | Machine Learning , Computer Vision , Quantum Computing |
+
 
   
 
